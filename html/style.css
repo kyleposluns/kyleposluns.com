@@ -1,0 +1,89 @@
+body {
+  background-color: #1a1a1d;
+  margin: 0;
+  padding: 0;
+}
+
+.site-banner {
+  background-color: #be80ff;
+  width:100%;
+  display: flex;
+  text-align: left;
+  border-bottom:3px inset #ffe6e6;
+}
+
+.site-heading {
+  font-size:48px;
+  color: #ffffff;
+  display: inline-block;
+  margin: auto;
+  text-shadow:#ab5dee 3px 3px 3px;
+  font-family: "Menlo";
+  vertical-align: middle;
+  width: 75%
+}
+
+.headings {
+  font-size: 24px;
+  display: inline-block;
+  padding: 1%;
+  margin: auto;
+  font-family: "Menlo";
+  vertical-align: middle;
+  width: 100%
+
+}
+
+.links {
+  text-decoration: none;
+  margin-right: 5%;
+  color: #c5c5c5;
+}
+
+.logo-container {
+  width: 25%;
+  height: auto;
+  margin: 4%;
+  padding: 4%;
+  background: #1ddd33;
+  border-style: inset;
+  border-color: #c5c5c5;
+  display: flex;
+  align-items: center;
+}
+
+.profile-container {
+  width: auto;
+  text-align: center;
+  margin-top: 5%;
+}
+
+
+
+.about-me {
+  font-size: 72px;
+  font-family: "Courier New";
+  width: 100%;
+  color: #ab5dee;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.profile {
+  font-size: 24px;
+  font-family: "Menlo";
+  color: #ffffff;
+  text-align: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 2%;
+}
+
+.footnote {
+  font-size: 12px;
+  font-family: "Menlo";
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10%;
+  color: #c5c5c5;
+}
